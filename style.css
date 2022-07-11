@@ -159,6 +159,14 @@ header.sticky ul li a {
   color: #111;
 }
 
+section.about {
+  padding:30px;
+}
+
+section.contact {
+  margin-top: 50px;
+}
+
 .btn {
   position: relative;
   background: #1c9993;
