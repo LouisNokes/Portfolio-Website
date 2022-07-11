@@ -1,6 +1,0 @@
-Jun  7 10:21:06 10.71.57.0 tmp108475129-9584 Connection from 10.71.57.0 port 33930 on 82.165.88.235 port 22
-Jun  7 10:21:07 10.71.57.0 tmp108475129-9584 Accepted password for tmp108475129-9584 from 10.71.57.0 port 33930 ssh2
-Jun  7 10:21:07 10.71.57.0 tmp108475129-9584 Starting session: subsystem 'sftp' for tmp108475129-9584 from 10.71.57.0 port 33930 id 0
-Jun  7 10:21:07 10.71.57.0 tmp108475129-9584 session opened for local user tmp108475129-9584 from [10.71.57.0]
-Jun  7 10:21:36 10.71.57.0 tmp108475129-3327 Connection from 10.71.57.0 port 34018 on 82.165.88.235 port 22
-Jun  7 10:21:36 10.71.57.0 tmp108475129-3327 Accepted password for tmp108475129-3327 from 10.71.57.0 port 34018 ssh2
