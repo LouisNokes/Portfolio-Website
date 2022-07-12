@@ -44,6 +44,10 @@ p {
   color: #333333;
 }
 
+label {
+color: white;
+}
+
 .header {
   position: relative;
   text-align: center;
